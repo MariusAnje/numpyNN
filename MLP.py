@@ -1,3 +1,4 @@
+# Deprecated
 import numpy as np
 
 class FC_layer():
